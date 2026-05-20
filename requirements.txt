@@ -1,0 +1,6 @@
+torch>=2.0.0
+numpy>=1.23.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+# cupy-cuda12x  # Uncomment for CUDA 12.x (Google Colab default)
+# cupy-cuda11x  # Uncomment for CUDA 11.x

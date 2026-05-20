@@ -1,0 +1,20 @@
+{
+  "device": "cuda (NVIDIA T4, 15.7 GB VRAM)",
+  "image_shape": [
+    512,
+    512,
+    3
+  ],
+  "gaussian_blur_ms": 3.2,
+  "sobel_edges_ms": 2.1,
+  "hist_eq_ms": 1.4,
+  "bilateral_ms": 8.7,
+  "benchmark": {
+    "gaussian_blur_cpu": 45.3,
+    "gaussian_blur_gpu": 3.2,
+    "sobel_edges_cpu": 38.1,
+    "sobel_edges_gpu": 2.1,
+    "hist_eq_cpu": 12.8,
+    "hist_eq_gpu": 1.4
+  }
+}
