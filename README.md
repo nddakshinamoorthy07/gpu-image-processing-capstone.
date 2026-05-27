@@ -1,6 +1,6 @@
 # GPU-Accelerated Image Processing Pipeline
 ## CUDA at Scale for the Enterprise — Final Capstone Project
-### Author: **LAKSHMIDHAR N**
+### Author: **DAKSHINA MOORTHY N D**
 
 ---
 
@@ -157,4 +157,4 @@ Grid size: `ceil(W/16) × ceil(H/16)` → covers all pixels in parallel
 
 ---
 
-*GPU Specialization Capstone — LAKSHMIDHAR N*
+*GPU Specialization Capstone — DAKSHINA MOORTHY N D*
